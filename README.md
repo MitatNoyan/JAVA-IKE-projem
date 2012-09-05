@@ -1,5 +1,5 @@
 JAVA-IKE-projem
 ===============
 
-bu site nasil bir site gorelim...
+donem sonuna kadar bitecek olan bitirme projem... C --> JAVA
 MIT
