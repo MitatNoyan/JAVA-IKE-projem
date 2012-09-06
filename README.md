@@ -2,6 +2,6 @@ JAVA-IKE-projem
 ===============
 
 donem sonuna kadar bitecek olan bitirme projem... C --> JAVA
-BUGUN HIC BIR SEY YAPMADIM!
+BUGUN DE BIR SEY YAPAMADIM, ACIK OGRETIM SINAVLARIMDAN SONRA INSALLAH!
 
 MIT
